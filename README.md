@@ -4,6 +4,7 @@
 [![Pulls](https://img.shields.io/github/issues-pr/cwapi2d/cwapi2dcpp)](https://github.com/cwapi2d/cwapi2dcpp/pulls)
 [![GitHub](https://img.shields.io/github/license/cwapi2d/cwapi2dcpp)](https://choosealicense.com/licenses/mit/)
 [![Docs](https://img.shields.io/badge/docs-github.io-blue)](https://cwapi2d.github.io/cwapi2dcpp/)
+[![OpenSSF Scorecard](https://api.scorecard.dev/projects/github.com/cwapi2d/cwapi2dcpp/badge)](https://scorecard.dev/viewer/?uri=github.com/cwapi2d/cwapi2dcpp)
 
 This is the Cadwork 2D CwAPI2D plugin architecture in C++.
 
